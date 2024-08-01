@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=FruitJuice
+comment0.text=\r\n\ Define\ da\ class\ named\ Fruitjuice\ with\ the\ following\ description\:\r\nInstanceb\ f\ variables/Data\ members\:\r\nintsv\ bf\ product-code\ \ \ \ \:\ \ \ stores\ the\ product\ code\ number.\r\nStvring\ flavor\ \ \ \ \ \ \ \:\ \ \ stores\ the\ flavor\ of\ the\ juice\ (e.g.,\ orange,\ apple\ etc.)\r\nString\ pack-type\ \ \ \ \:\ stores\ the\ type\ of\ packing\ (e.g.\ tera\u2013pack,\ PET\ bottle\ etc.)\r\nint\ q`product-size\ \ \ \ \:\ stores\ package\ size\ (e.g.\ 200\ mL,400\ mL\ etc.)\r\nint\ product-price\ \ \ \:\ stores\ the\ price\ of\ the\ product\r\nMember\ methods\:\r\n(i)\ \ FruitJuice(\ )\ \ \ \ \ \ \ \ \:\ default\ constructor\ to\ initialize\ integer\ data\ members\ to\ 0\ and\ \ \r\nstring\ data\ member\ to\ \u201C\ \ \u201D.\r\n(ii)void\ input(\ )\ \ \ \ \ \ \ \ \ \ \:\ to\ input\ and\ store\ the\ product\ code,\ flavor,\ pack\ type,\ pack\ \r\nsize\ and\ product\ price.\r\n(iii)void\ discount\ (\ )\ \ \:\ to\ reduce\ the\ product\ price\ ny\ 10.\r\n(iv)\ void\ display\ (\ )\ \ \ \ \:\ to\ display\ the\ product\ code,\ flavor,\ pack\ type,\ pack\ size\ and\ \ \ \ \r\nproduct\ price.\r\n
+comment1.params=
+comment1.target=FruitJuice()
+comment2.params=pc\ pt\ f\ ps\ pp
+comment2.target=void\ input(int,\ java.lang.String,\ java.lang.String,\ int,\ int)
+comment3.params=
+comment3.target=void\ discount()
+comment4.params=
+comment4.target=void\ display()
+comment5.params=
+comment5.target=void\ main()
+numComments=6
