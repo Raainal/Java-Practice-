@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=sum_of_digits_in_array
+comment1.params=no
+comment1.target=boolean\ validate(int)
+comment2.params=n
+comment2.target=int\ sumofdigits(int)
+comment3.params=
+comment3.target=void\ main()
+numComments=4

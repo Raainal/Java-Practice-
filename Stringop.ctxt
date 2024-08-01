@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Stringop
+comment0.text=\r\n\r\nQUESTION\ 2\:\r\nWrite\ a\ class\ program\ in\ Java\ with\ the\ following\ specifications\:\r\nClass\ name\ \:\ Stringop\r\nData\ members\ \:\ String\ str\r\nMember\ functions\ \:\r\nStringop()\ \:\ parameterized\ cosntructor\ to\ initialize\ str.\r\nvoid\ encode()\ \:\ to\ replace\ and\ print\ each\ character\ of\ the\ string\ with\ the\ second\ next\r\ncharacter\ in\ the\ ASCII\ table.\r\nExample\ \:\ A\ with\ c,\ b\ with\ D\ and\ so\ on\ \ \ \r\nvoid\ print()\ \:\ to\ print\ each\ word\ of\ the\ String\ in\ a\ separate\ line\r\n\r\n
+comment1.params=s
+comment1.target=Stringop(java.lang.String)
+comment2.params=
+comment2.target=void\ encode()
+comment3.params=
+comment3.target=void\ print()
+comment4.params=
+comment4.target=void\ main()
+numComments=5

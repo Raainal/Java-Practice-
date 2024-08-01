@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=triangle
+comment1.params=x\ y\ z
+comment1.target=void\ decide(int,\ int,\ int)
+comment2.params=
+comment2.target=void\ main()
+numComments=3

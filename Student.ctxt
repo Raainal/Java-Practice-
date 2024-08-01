@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Student
+comment0.text=\r\n\ Create\ a\ class\ Student\ with\ follwowing\ members\r\n\ data\ members\:\r\n\ rollno\ \:\ int\r\n\ name\:\ String\r\n\ sub1\r\n\ sub2\r\n\ sub3\r\n\ methods\:\r\n\ Student()\ -\ default\ constructor\r\n\ Student()\ -\ parameterized\ constuctor\r\n\ calculate()\ -\ returns\ sum\ of\ marks\ of\ 3\ subjects\r\n\ average()\ -\ returns\ the\ average\ \r\n\ display()\ -\ displays\ student\ details\ with\ marks\r\n\ Create\ main\ method\ and\ create\ object\ of\ the\ class\r\n\ and\ call\ above\ methods\ \r\n
+comment1.params=
+comment1.target=Student()
+comment2.params=r\ n\ sub1\ sub2\ sub3
+comment2.target=Student(int,\ java.lang.String,\ double,\ double,\ double)
+comment3.params=
+comment3.target=double\ calculate()
+comment4.params=
+comment4.target=double\ avg()
+comment5.params=
+comment5.target=void\ display()
+comment6.params=
+comment6.target=void\ main()
+numComments=7
